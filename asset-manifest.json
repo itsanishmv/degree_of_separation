@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/degree_of_separation/static/css/main.c2a522db.css",
+    "main.js": "/degree_of_separation/static/js/main.3c4e889f.js",
+    "index.html": "/degree_of_separation/index.html",
+    "main.c2a522db.css.map": "/degree_of_separation/static/css/main.c2a522db.css.map",
+    "main.3c4e889f.js.map": "/degree_of_separation/static/js/main.3c4e889f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a522db.css",
+    "static/js/main.3c4e889f.js"
+  ]
+}
